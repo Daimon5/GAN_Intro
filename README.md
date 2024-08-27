@@ -7,7 +7,7 @@ This repository provides an introduction to Generative Adversarial Networks (GAN
 
 ## Contents
 
-- `Simple_GAN_MNIST.ipynb`: A basic implementation of a GAN on the MNIST dataset. This notebook walks through the process of creating a simple GAN architecture, training it, and generating new images of handwritten digits.
+- `GAN_MNIST.ipynb`: A basic implementation of a GAN on the MNIST dataset. This notebook walks through the process of creating a simple GAN architecture, training it, and generating new images of handwritten digits.
 
 - `WGAN_CelebA.ipynb`: An implementation of a Wasserstein GAN (WGAN) on the CelebA dataset. This notebook demonstrates the usage of the Wasserstein Loss function to improve the stability of GAN training and generate realistic images of faces.
 
